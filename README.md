@@ -18,8 +18,7 @@
 ### 🔬 About me
 
 - 🧬 I work on **cancer epigenomics**, focusing on DNA methylation analysis (EPICv2 arrays)
-- 🎓 Sandwich PhD affiliated with the **Centre Léon Bérard** (Lyon, France), funded by a CAPES-COFECUB scholarship
-- 🇧🇷 Based in Brazil, collaborating with **INCA** (Brazil's National Cancer Institute)
+- 🇧🇷 Based in Brazil, PhD candidate at **INCA** (Brazil's National Cancer Institute)
 - 👨‍🏫 Supervising undergraduate students in bioinformatics research projects
 - 🛠️ Building methylation analysis pipelines in **R/Bioconductor** (SeSAMe, DMRcate, limma, ChAMP, ConsensusClusterPlus)
 
